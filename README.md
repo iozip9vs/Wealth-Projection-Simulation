@@ -3,7 +3,7 @@ Monte Carlo simulation for wealth projection simulations
 
 following my recent test on a monte carlo simulation project, I will find what I pull from memory, and create a simulaiton on the side.
 
-initial goal:
+# initial goal:
 
 1. single account, with cash in/out flows, turnover, liquidations if needed, simplified treatment of cash flow, income, unrealized gain, realized gains (carryforward will be just zone)
 
@@ -13,4 +13,8 @@ initial goal:
 
   1.3 account BOY info: Total Wealth, 
 
+# stage 2 goal:
 2. multiple accounts, liquidation set as same fraction for all accounts if liquidation is needed, now carryover
+
+# stage 3 goal:
+
